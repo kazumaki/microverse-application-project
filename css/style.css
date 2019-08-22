@@ -1,5 +1,14 @@
+p {
+	text-align: left;
+	max-width: 60%;
+	margin: 0 auto;
+}
+
 #img{
     width: 80%;
     max-width: 320px;
-    margin: 0 auto;
+}
+
+#main {
+	text-align: center;
 }
