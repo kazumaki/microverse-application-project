@@ -7,15 +7,32 @@ h3 {
 	font-weight: 400;
 }
 
-p {
+hr {
+	border-top: 1px dashed #8c8b8b;
+	width: 55%;
+	padding: 25px 0 25px 0;
+}
+
+.descr{
 	text-align: left;
 	max-width: 40%;
+	min-width: 300px;
 	margin: 0 auto;
 }
 
 #quote {
-	padding: 25px;
+	width: 70%;
+	margin: 0 auto;
+	padding: 50px;
+}
+
+#quotecontainer {
+	
 	font-style: italic;
+	font-size: 120%;
+	min-width: 350px;
+	max-width: 75%;
+	margin: 0 auto;
 }
 
 #tribute-info{
@@ -27,7 +44,8 @@ p {
 }
 
 .timeline{
-    width: 40%;
+    max-width: 40%;
+    min-width: 300px;
     margin: 0 auto;
     text-align: left;
     margin-bottom: 30px;
