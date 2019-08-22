@@ -1,7 +1,26 @@
 p {
 	text-align: left;
-	max-width: 60%;
+	max-width: 40%;
 	margin: 0 auto;
+}
+
+#tribute-info{
+    margin-top: 20px;
+}
+
+#wikipedia-link{
+    
+}
+
+.timeline{
+    width: 40%;
+    margin: 0 auto;
+    text-align: left;
+    margin-bottom: 30px;
+}
+
+.timeline span{
+    font-weight: bold;
 }
 
 #img{
