@@ -1,7 +1,17 @@
+h3 {
+	font-size: 95%;
+	font-weight: 400;
+}
+
 p {
 	text-align: left;
 	max-width: 40%;
 	margin: 0 auto;
+}
+
+#quote {
+	padding: 25px;
+	font-style: italic;
 }
 
 #tribute-info{
@@ -28,6 +38,16 @@ p {
     max-width: 320px;
 }
 
+#img-div {
+	background-color: rgba(255, 255, 255, 1);
+	min-width: 230px;
+	width: 35%;
+	margin: 0 auto;
+	padding: 20px 0px 35px 0px;
+}
+
 #main {
+	background-color: rgba(220, 220, 220, 0.5);
 	text-align: center;
+	border-radius: 5px;
 }
